@@ -1,0 +1,6 @@
+.DS_Store
+values_*.yaml
+values.yaml
+librechat-config.yaml
+keycloak
+openai-api-proxy
